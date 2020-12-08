@@ -1,0 +1,151 @@
+body {
+    font-family: "Avenir Next";
+    margin-left: 25px;
+    margin-right: 25px;
+    
+}
+
+li {
+    list-style: none;
+}
+
+.header {
+    background-color: cornflowerblue;
+    color: #fff;
+    height: 75px;
+}
+.header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+}
+.header-list li {
+    float: left;
+    padding: 33px 20px;
+    font-weight: 600;
+}
+.header-list ul li a {
+    text-decoration: none;
+}
+.header-list ul li a:hover {
+    color: #a31313;
+}
+header-list ul li a:link {
+    color: #0c699b;
+}
+.header-list ul li a:active {
+    color: #fff;
+}
+.header-list ul li a:visited {
+    color: #fff;
+}
+.main {
+    padding: 20px 40px;
+}
+.copy-container h1 {
+    font-size: 60px;
+    
+}
+.copy-container h2 {
+    font-size: 33px;
+    margin: 0px 0px;
+}
+.copy-container p {
+    font-size: 22px;
+    margin: 10px 0px;
+    
+}
+
+.copy-container button {
+    font-family: sans-serif;
+    font-size: 15px;
+    background: #22a4cf;
+    color: white;
+    border: white 3px solid;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 2px;
+    font-weight: 600;
+}
+
+.copy-container a {
+    text-decoration: none;
+    color: white;
+}
+
+.contents {
+    height: 500px;
+    margin-top: 75px;
+}
+.section-title {
+    border-bottom: 2px dashed #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+.contents-item {
+    float: left;
+    margin-right: 40px;
+}
+.contents-item p {
+    font-size: 24px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.contact-form {
+    padding-top: 50px;
+    font-size: 20px;
+}
+.contact-form1 {
+    font-size: 20px;
+    padding: 20px 40px;
+}
+input, textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #dee7ec;
+}
+.contact-submit {
+    background: cornflowerblue;
+    color: #dee7ec;
+}
+
+.footer {
+    background-color: cornflowerblue;
+    color:#fff;
+    height: 90px;
+    padding: 40px;
+}
+.footer-logo {
+    float: left;
+    font-size: 32px;
+  }
+  .footer-list {
+    float: right;
+  }
+  .footer-list li {
+    padding-bottom: 15px;
+  }  
+  .footer-list li a {
+    text-decoration: none;
+    font-weight: 600;
+}
+.footer-list ul li a:hover {
+    color: #fff;
+}
+.footer-list ul li a:link {
+    color: #fff;
+}
+.footer-list ul li a:active {
+    color: #fff;
+}
+.footer-list ul li a:visited {
+    color: #fff;
+}
+
+
+
